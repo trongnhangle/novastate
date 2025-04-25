@@ -4,6 +4,10 @@
 
 NovaState là một package quản lý state nhẹ và hiệu quả cho Flutter. Package này không phụ thuộc vào bất kỳ package state management nào khác trên pub.dev và được thiết kế để dễ dàng tích hợp vào các ứng dụng Flutter với nhiều quy mô khác nhau.
 
+## Video Demo
+![ezgif-2d6e700c16ad4a](https://github.com/user-attachments/assets/757c866f-c786-455a-b95b-dbc8b74c4292)
+
+
 ## Giới thiệu
 
 NovaState được phát triển để đáp ứng nhu cầu về một giải pháp quản lý state vừa đơn giản vừa mạnh mẽ cho các ứng dụng Flutter. Tên gọi NovaState lấy cảm hứng từ tên nhóm startup của tôi - NOVA.
